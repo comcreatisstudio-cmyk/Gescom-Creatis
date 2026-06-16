@@ -1025,7 +1025,7 @@ body.auth-on{overflow:hidden}
 .tabs button{padding:7px 16px;border-radius:var(--r);background:var(--carte);border:1px solid var(--ligne);cursor:pointer;font-size:13px;font-weight:500;color:var(--txt-2)}
 .tabs button.active{background:var(--magenta);color:#fff;border-color:var(--magenta)}
 .empty-sm{padding:20px;color:var(--txt-2);font-size:13px;text-align:center}
-.doc-view .fieldset{background:var(--bg);border-radius:var(--r);padding:10px 12px}
+.doc-view .fieldset{background:var(--papier);border-radius:var(--r);padding:10px 12px}
   `;
   document.head.appendChild(style);
 })();
